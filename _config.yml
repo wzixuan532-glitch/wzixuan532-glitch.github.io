@@ -7,31 +7,29 @@ version: 2
 
 # Personal info
 name: Asteria
-title: Your job title
-email: Your email (optional)
+title: Data Analyst
+email: 1012166@mymail.sutd.edu.sg
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 12345678
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: 12345678
+github_username: 12345678
+stackoverflow_username: 12345678
+dribbble_username: 12345678
+facebook_username: 12345678
+flickr_username: 12345678
+instagram_username: 12345678
+linkedin_username: 12345678
+xing_username: 12345678
+pinterest_username: 12345678
+youtube_username: 12345678
+orcid_username: 12345678
+googlescholar_username: 12345678
 
 # Additional icon links
 additional_links:
